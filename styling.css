@@ -1,0 +1,54 @@
+.header {
+    height: 80px;
+    font-family: 'Times New Roman';
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    font-size: 30px;
+    letter-spacing: 0.5cm;
+    display: flex;
+    color: black;
+}
+
+body {
+    background-color: black;
+}
+
+.inputContainer {
+    height: 100px;
+    margin-top: 50px;
+    align-items: center;
+    display: flex;
+}
+
+.buttonContainer {
+    height: 100px;
+    align-items: center;
+    display: flex;
+}
+
+#addInput {
+    border: 10px solid white;
+    background-color: white;
+    border-radius: 25px;
+    margin: auto;
+    width: 500px;
+}
+
+#searchInput {
+    border: 10px solid white;
+    background-color: white;
+    border-radius: 25px;
+    margin: auto;
+    width: 500px;
+}
+
+.button {
+    border: 5px solid white;
+    background-color:black;
+    border-radius: 25px;
+    color: white;
+    width: 500px;
+    margin: auto;
+}
+
